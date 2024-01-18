@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @raygaeta
-- 👀 I’m interested in research on human and machine cognition, machine learning, artifician intelligence, brain-computer interfaces
-- 💞️ I’m looking to work on projects involving PyTorch, TensorFlow, Data Analsyis, AI, Deep Learning
+- 👋 Hi, I’m @ramongaeta
+- 😉 I’m interested in research on human and machine cognition, machine learning, artifician intelligence, brain-computer interfaces
+- ❤️ I’m looking to work on projects involving PyTorch, TensorFlow, Data Analsyis, AI, Deep Learning
 - 📫 How to reach me raymondgaeta@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: A stingray stung me the first time I went surfing
 
 <!---
