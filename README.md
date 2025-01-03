@@ -7,4 +7,4 @@ I believe that beautifully designed graphical interfaces are key to making compl
 
 💌 Email: raymondgaeta@gmail.com
 
-😎 Personal Website: raygaeta.com
+😎 Personal Website: [raygaeta.com](https://raygaeta.com/)
