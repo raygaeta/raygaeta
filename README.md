@@ -6,3 +6,5 @@ With a Bachelor of Science in Biology and a strong foundation in programming, I�
 
 Why This Matters
 I believe that beautifully designed graphical interfaces are key to making complex data accessible and intuitive. Whether it’s creating interactive tools to visualize neural activity or crafting immersive experiences that bridge the gap between humans and machines, I’m excited to contribute to technologies that shape the future of neurotech and beyond.
+
+💌 Email: raymondgaeta@gmai.com
