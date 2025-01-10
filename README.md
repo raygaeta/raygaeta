@@ -11,7 +11,7 @@ I believe that beautifully designed graphical interfaces are key to making compl
 
 ## 🔍 Current Focus
 
-I'm currently exploring **neurotechnology** through data-driven, interactive coding projects, and I am particularly passionate about **visualizing complex data** and merging **creative coding** with **scientific research** to produce intuitive, engaging interfaces. 
+I'm currently exploring data-driven, interactive coding projects, and I am particularly passionate about **visualizing complex data** and merging **creative coding** with **UI/UX** to produce intuitive, engaging interfaces. 
 
 ---
 
