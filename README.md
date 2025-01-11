@@ -1,5 +1,4 @@
 # Hi there! Welcome to My GitHub! 🤓
-My legal name is Ramon but everyone calls me Ray.
 
 Here, you'll find my contributions to open-source projects and creative coding repositories that combine my passions for creative technology, human biology, visual experiences, and data.
 
