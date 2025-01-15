@@ -1,24 +1,30 @@
-# Hi there! Welcome to My GitHub! 🤓
+# Ramon (Ray) – Creative Developer & Software Engineer! 🤓
 
-Here, you'll find my contributions to open-source projects and creative coding repositories that combine my passions for creative technology, human biology, visual experiences, and data.
-
-With a **Bachelor of Science in Biology** and a strong foundation in **programming**, I'm driven by the potential of merging **human biology** and **creative technology** to create visually stunning, data-driven interfaces that enable the full potential of human-computer interaction.
-
-I believe that beautifully designed graphical interfaces are key to making complex data more accessible and intuitive. Whether it’s creating **interactive tools** to visualize data or crafting **digital experiences**, I’m excited to contribute to technologies that bridge the gap between humans and machines.
-
+I am passionate about full-stack development, software engineering, and front-end engineering, with a particular focus on AI-driven projects. My work also extends to creative coding, where I design interactive and immersive digital experiences. I am actively seeking open-source opportunities and am excited to contribute to projects that merge AI, creative technology, and design to solve complex challenges and deliver meaningful impact across industries.
+ 
 ---
+### 🔍 Current Focus and Interests:
 
-## 🔍 Current Focus
-
-I'm currently exploring data-driven, interactive coding projects, and I am particularly passionate about **visualizing complex data** and merging **creative coding** with **UI/UX** to produce intuitive, engaging interfaces. 
+- 🤖 Integrating **AI workers** into workflows to automate communication and enhance efficiency.  
+- 🚀 Developing agile **MVPs** and features in close collaboration with users to address pressing needs.  
+- 🛠️ Building robust and scalable **full-stack applications**.  
+- 🎯 Leveraging LLM fine-tuning and Supervised Learning techniques to enhance AI accuracy, and deliver user-centric experiences.
 
 ---
 
 ## 🫂 Let's Connect!
 
-### Looking forward to collaborating and creating impactful projects that push the boundaries of creative technology! ✨:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-gaeta-a6401a344/)
-- [![Gmail](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raymondgaeta@gmail.com)
+#### If you’re looking for someone who thrives at the intersection of creativity, engineering, and problem-solving, let’s connect!
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/ramongaeta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:raymondgaeta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
 
 ## 🛠️ Skills & Technologies:
 
@@ -44,16 +50,24 @@ I'm currently exploring data-driven, interactive coding projects, and I am parti
 ### **Backend Development**
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="width: 30%; padding: 5px;">
-    <strong>Languages & Tools:</strong><br>
+    <strong>Languages:</strong><br>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   </div>
   <div style="width: 30%; padding: 5px;">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+    <strong>Databases & APIs:</strong><br>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
     <img src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API">
   </div>
+  <div style="width: 30%; padding: 5px;">
+    <strong>Tools & Technologies:</strong><br>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/LLM_Training-F26D21?style=for-the-badge&logo=ai&logoColor=white" alt="LLM Training">
+  </div>
 </div>
+
+
