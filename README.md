@@ -4,8 +4,8 @@ I am passionate about full-stack development, software engineering, and front-en
  
 ---
 ### 🔍 Current Focus and Interests:
-- 🎯 Leveraging **React**, **TypeScript**, **Three.js**, **WebGL** to creating digital experiences.
-- 🤖 Integrating **AI workers** into workflows to automate communication and enhance efficiency.  
+- 🎯 Leveraging **React**, **TypeScript**, **Three.js**, **WebGL** to create digital experiences.
+- 🤖 Strategically using UI to enhance UX, branding, and communication.  
 - 🚀 Developing agile **MVPs** and features in close collaboration with users to address pressing needs.  
 - 🛠️ Building robust and scalable **full-stack applications**.  
 
