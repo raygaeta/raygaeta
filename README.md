@@ -13,8 +13,6 @@ I am passionate about full-stack development, software engineering, and front-en
 
 ## 🫂 Let's Connect!
 
-#### If you’re looking for someone who thrives at the intersection of creativity, engineering, and problem-solving, let’s connect!
-
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/ramongaeta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
