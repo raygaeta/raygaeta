@@ -1,6 +1,6 @@
-# Ramon (Ray) – Creative Developer & Software Engineer! 
+# Ramon (Ray) – Creative Developer & Solutions Engineer! 
 
-I am passionate about full-stack development, software engineering, and front-end engineering, with a particular focus on AI-driven projects. My work also extends to creative coding, where I design interactive and immersive digital experiences. I am actively seeking open-source opportunities and am excited to contribute to projects that merge AI, creative technology, and design to solve complex challenges and deliver meaningful impact.
+I am passionate about solutions engineering and front-end development, with a particular focus on 3D and **UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences. I am actively seeking open-source opportunities and am excited to contribute to projects that merge creative technology and design.
  
 ---
 ### 🔍 Current Focus and Interests:
