@@ -1,6 +1,6 @@
 # Ramon (Ray) – Creative Developer & Solutions Engineer! 
 
-I am passionate about solutions engineering and front-end development, with a particular focus on 3D and **UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences. I am actively seeking open-source opportunities and am excited to contribute to projects that merge creative technology and design.
+I am passionate about solutions engineering and front-end development, with a particular focus on 3D and **UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences. I am actively seeking open-source opportunities that merge creative technology and design.
  
 ---
 ### 🔍 Current Focus and Interests:
