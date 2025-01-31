@@ -15,9 +15,6 @@ I am passionate about front-end engineering, with a particular focus on 3D and *
 ## 🫂 Let's Connect!
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/ramongaeta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="mailto:raymondgaeta@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -59,12 +56,6 @@ I am passionate about front-end engineering, with a particular focus on 3D and *
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
     <img src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API">
-  </div>
-  <div style="width: 30%; padding: 5px;">
-    <strong>Tools & Technologies:</strong><br>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/LLM_Training-F26D21?style=for-the-badge&logo=ai&logoColor=white" alt="LLM Training">
   </div>
 </div>
 
