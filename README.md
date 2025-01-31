@@ -7,7 +7,8 @@ I am passionate about solutions engineering and front-end development, with a pa
 - 🛠️ Leveraging **React**, **TypeScript**, **Three.js**, **WebGL** to create digital experiences.
 - 📖 **Motion design** principles and **UI/UX** to enhance a brand's essence, mood and storytelling.  
 - 🚧 Developing **MVPs** and features in close collaboration with users to address pressing needs.  
-- 🥞 Building robust and scalable **full-stack applications**.  
+- 🥞 Building robust and scalable **full-stack applications**.
+- 🏡 Startups and entrepreneurship. 
 
 ---
 
