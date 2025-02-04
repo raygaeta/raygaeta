@@ -1,4 +1,4 @@
-# Ramon (Ray) – Creative Developer & Frontend Engineer! 
+# Ramon (Ray) Gaeta – Creative Developer & Frontend Engineer! 
 
 I am passionate about front-end engineering, with a particular focus on WEBGL, 3D and **UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences. I am actively seeking open-source opportunities that merge creative technology and design. Currently, I am enrolled in a coding bootcamp further developing my skills with Java, SQL, Javalin, Git and Spring. 
  
