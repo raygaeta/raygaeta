@@ -5,7 +5,8 @@ I am passionate about front-end engineering, with a particular skillset in **Rea
 ---
 ### 🔍 Current Focus and Interests:
 - 🛠️ Leveraging **React**, **TypeScript**, **Three.js**, **WebGL** to create digital experiences.
-- 🏃‍♂️ **Motion design** principles, **Animation**, **UI/UX** to enhance a brand's essence, mood and storytelling.  .
+- 🏃‍♂️ **Motion design** principles, **Animation**, **UI/UX** to enhance a brand's essence, mood and storytelling.
+- 🪨 **SOLID** Design Principles
 - 🏡 Startups and entrepreneurship.
 - 📘 Reading the **Book of Shaders** by Patricio Gonzalez Vivo and Jen Loweand **The Nature of Code** by Daniel Shiffman
 
