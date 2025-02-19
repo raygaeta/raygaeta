@@ -1,10 +1,10 @@
 # Ramon (Ray) Gaeta – Creative Developer & Frontend Engineer! 
 
-I am passionate about front-end engineering, with a particular skillset in **React, WEBGL, Three.js and UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences with **P5.js and shaders**. I am actively seeking opportunities that merge creative technology and design. Currently, I am enrolled in a bootcamp further developing my skills with Java, SQL, Javalin, Git and Spring to gain full-stack experience. 
+I am passionate about front-end engineering, with a particular skillset in **React, WEBGL, Three.js and UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences with **P5.js and shaders**. I am actively seeking opportunities that merge creative technology and design. Currently, I am learning **TypeScript**.
  
 ---
 ### 🔍 Current Focus and Interests:
-- 🛠️ Leveraging **React**, **TypeScript**, **Three.js**, **WebGL** to create digital experiences.
+- 🛠️ Leveraging **React**, **Javascript**, **Three.js**, **WebGL** to create digital experiences.
 - 🏃‍♂️ **Motion design** principles, **Animation**, **UI/UX** to enhance a brand's essence, mood and storytelling.
 - 🪨 **SOLID** Design Principles, **DRY**, **PURE**
 - 🏡 Startups and entrepreneurship.
@@ -28,9 +28,7 @@ I am passionate about front-end engineering, with a particular skillset in **Rea
   <div style="width: 30%; padding: 5px;">
     <strong>Languages:</strong><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="JSX">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 
