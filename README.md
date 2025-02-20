@@ -1,15 +1,17 @@
-# Ramon (Ray) Gaeta – Creative Developer & Frontend Engineer! 
+# Ramon (Ray) Gaeta – Creative Developer || Frontend Engineer 💼 
 
-I am passionate about front-end engineering, with a particular skillset in **React, WEBGL, Three.js and UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences with **P5.js and shaders**. I am actively seeking opportunities that merge creative technology and design. 
+I am passionate about front-end engineering, with a particular skillset in **JavaScript, React, WEBGL, Three.js and UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences with **P5.js and shaders**. I am actively seeking opportunities that allow me to develop creative interfaces on the web to help tell brand's stories and / or intuitive interfaces that save users time. 
  
 ---
 ### 🔍 Current Focus and Interests:
-- 🛠️ Leveraging **React**, **Javascript**, **Three.js**, **WebGL** to create digital experiences.
-- 🏃‍♂️ **Motion design** principles, **Animation**, **UI/UX** to enhance a brand's essence, mood and storytelling.
-- 🪨 **SOLID** Design Principles, **DRY**, **PURE**
+- 🛠️ Leveraging **React**, **Javascript**, **Three.js**, **WebGL**.
+- 🏃‍♂️ **Motion design** principles, **Animation** to enhance **UI/UX**.
+- 🪨 **SOLID**, **DRY**, and **PURE** design principles
+- 🔍 Accessibility and performance
+- 🎨 Branding and storytelling
 - 🏡 Startups and entrepreneurship.
-- 📘 Reading the **Book of Shaders** by Patricio Gonzalez Vivo and Jen Loweand **The Nature of Code** by Daniel Shiffman
-
+- 📘 The **Book of Shaders** ans **The Nature of Code**
+- 🦾 AI tools to boost output
 ---
 
 ## 🫂 Let's Connect!
