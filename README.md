@@ -9,7 +9,7 @@ I am passionate about front-end engineering, with a particular skillset in **Jav
 - 🪨 **SOLID**, **DRY**, and **PURE** design principles
 - 🔍 Accessibility and performance
 - 🎨 Branding and storytelling
-- 🏡 Startups and entrepreneurship.
+- 🏡 PQC Startups and entrepreneurship.
 - 📘 The **Book of Shaders** ans **The Nature of Code**
 - 🦾 AI tools to boost output
 ---
