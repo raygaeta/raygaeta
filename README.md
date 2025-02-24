@@ -10,7 +10,7 @@ I am passionate about front-end engineering, with a particular skillset in **Jav
 - 🔍 Accessibility and performance
 - 🎨 Branding and storytelling
 - 🏡 PQC Startups and entrepreneurship.
-- 📘 The **Book of Shaders** ans **The Nature of Code**
+- 📘 The **Book of Shaders** and **The Nature of Code**
 - 🦾 AI tools to boost output
 ---
 
