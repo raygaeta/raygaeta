@@ -1,4 +1,4 @@
-# Ramon (Ray) Gaeta – Creative Developer || Frontend Engineer 💼 
+# Ramon (Ray) Gaeta – Creative Developer || Frontend Engineer 
 
 I am passionate about front-end engineering, with a particular skillset in **JavaScript, React, WEBGL, Three.js and UI/UX**. My work also extends to creative coding, where I design interactive and immersive digital experiences with **P5.js and shaders**. I am actively seeking opportunities that allow me to develop creative interfaces on the web to help tell brand's stories and / or intuitive interfaces that save users time. 
  
