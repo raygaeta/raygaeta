@@ -1,6 +1,6 @@
 # Ramon (Ray) – Creative Developer || Frontend Engineer 
 
-My passion lies at the intersection of data visualization and frontend technology. I specialize in **JavaScript, React, WEBGL, Three.js and UI/UX**. I am most excited about using code creatively to build functional and mesmerizing digital experiences. I hold a B.S. in Biology from the University of California, Los Angeles, where I developed strong data visualization skills using code. 
+My passion lies at the intersection of data visualization and frontend technology. I specialize in **JavaScript, React, WEBGL, Three.js and UI/UX**. I am most excited about using code creatively to build functional digital experiences. I hold a B.S. in Biology from the University of California, Los Angeles, where I used code to represent data. 
  
 ---
 ### 🔍 Current Focus and Interests:
