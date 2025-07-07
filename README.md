@@ -1,6 +1,16 @@
-# Ramon (Ray) – Creative Developer || Frontend Engineer 
+<p align="center">
+  <img src="https://github.com/raygaeta/raygaeta/blob/main/hero.gif?raw=true" alt="Hero" width="100%" />
+</p>
 
-My passion lies at the intersection of data visualization and frontend technology. I specialize in **JavaScript, React, WEBGL, Three.js and UI/UX**. I am most excited about using code creatively to build functional digital experiences. I hold a B.S. in Biology from the University of California, Los Angeles, where I used code to represent data. 
+My passion lies at the intersection of data visualization and frontend technology. I specialize in **JavaScript, React, WEBGL, and Three.js**. I am most excited about using code creatively to build functional digital experiences with careful UI/UX design. I hold a B.S. in Biology from the University of California, Los Angeles, where I used code to visualize data. 
+
+<h2 align="center">🫂 Let's Connect!</h2>
+
+<p align="center">
+  <a href="mailto:raymondgaeta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
  
 ---
 ### 🔍 Current Focus and Interests:
@@ -11,15 +21,6 @@ My passion lies at the intersection of data visualization and frontend technolog
 - 🎨 Branding, storytelling, and design systems to create beautiful **UI/UX**
 - 🏡 **Creative technology companies / studios**
 ---
-
-## 🫂 Let's Connect!
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="mailto:raymondgaeta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
 
 ## 🛠️ Skills & Technologies:
 
