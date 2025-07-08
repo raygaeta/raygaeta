@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/raygaeta/raygaeta/blob/main/hero.gif?raw=true" alt="Hero" width="100%" />
+  <img src="https://github.com/raygaeta/raygaeta/blob/main/hero-2.gif?raw=true" alt="Hero" width="100%" />
 </p>
 
 My passion lies at the intersection of data visualization and frontend technology. I specialize in **JavaScript, React, WEBGL, and Three.js**. I am most excited about using code creatively to build functional digital experiences with careful UI/UX design. I hold a B.S. in Biology from the University of California, Los Angeles, where I used code to visualize data. 
