@@ -18,7 +18,7 @@ My passion lies at the intersection of data visualization and frontend technolog
 - 🏃‍♂️ **Animation** and **Motion design** 
 - 🪨 **SOLID**, **DRY**, and **PURE** design principles
 - 🔍 Accessibility and performance
-- 🎨 Branding, storytelling, and design systems to create beautiful **UI/UX**
+- 🎨 Branding, storytelling, and design systems to create cohesive **UI/UX**
 - 🏡 **Creative technology companies / studios**
 ---
 
