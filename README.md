@@ -1,1 +1,1 @@
-![Hero](https://github.com/raygaeta/raygaeta/blob/main/assets/hero.png?raw=true)
+<img src="https://raw.githubusercontent.com/raygaeta/raygaeta/main/hero.png" alt="Hero" width="100%" />
