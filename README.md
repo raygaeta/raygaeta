@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/raygaeta/raygaeta/main/hero-name.png" alt="Hero" width="100%" />
+<img src="./hero.png?v=2" alt="hi@raygaeta.com" width="100%" />
