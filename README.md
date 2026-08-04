@@ -1,1 +1,1 @@
-<img src="./hero.png?v=2" alt="hi@raygaeta.com" width="100%" />
+<img src="./hero.png?v=3" alt="hi@raygaeta.com" width="100%" />
