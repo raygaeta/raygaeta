@@ -1,1 +1,1 @@
-<img src="./hero.png?v=6" alt="hi@raygaeta.com" width="100%" />
+<img src="./banner.png?v=2026-08-06-die" alt="RAY GAETA" width="100%" />
